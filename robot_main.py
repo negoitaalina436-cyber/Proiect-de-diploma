@@ -27,7 +27,7 @@ import rtc_module
 
 # Global configurable parameters
 
-CONFIDENCE_THRESHOLD = 0.15
+CONFIDENCE_THRESHOLD = 0.30
 
 BALL_COLOR_HSV_LOW  = (35, 40, 80)    # calibrat empiric cu tool calibrare_hsv
 BALL_COLOR_HSV_HIGH = (75, 255, 255)
